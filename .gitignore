@@ -1,2 +1,24 @@
+# Hugo
 public/
+resources/
 .hugo_build.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Misc
+*.log
+.cache/
